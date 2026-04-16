@@ -4,6 +4,6 @@ def market():
         host='localhost',
         database="market",
         user="postgres",
-        password="ulugbek"
+        password="password"
     )
     return mar
